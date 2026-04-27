@@ -1,49 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Unseen Scars Blog</title>
-  <link>https://blog.unseenscars.vip</link>
-  <description>Trauma-informed insights, emotional healing tools, and supportive resources for adults recovering from emotional neglect.</description>
-  <language>en-us</language>
-  <lastBuildDate>Tue, 21 Apr 2026 11:49:00 -0400</lastBuildDate>
 
+  <title>Unseen Scars Blog</title>
+  <link>https://blog.unseenscars.vip/</link>
+  <description>Trauma-informed insights, emotional clarity, and practical tools for healing the unseen wounds that shape our lives.</description>
+  <language>en-us</language>
+  <lastBuildDate>Thu, 30 Apr 2026 09:00:00 -0400</lastBuildDate>
+
+  <!-- ========================= -->
+  <!-- POST 4 — Apr 30, 2026     -->
+  <!-- ========================= -->
   <item>
-    <title>Why 'Fine' Is the Most Dangerous Word in Your Vocabulary</title>
+    <title><![CDATA[Why Setting Boundaries Feels Like a Battle (And How to Win Without Losing Yourself)]]></title>
+    <link>https://blog.unseenscars.vip/why_setting_boundaries_feels_like_a_battle</link>
+    <guid>https://blog.unseenscars.vip/why_setting_boundaries_feels_like_a_battle</guid>
+    <pubDate>Thu, 30 Apr 2026 09:00:00 -0400</pubDate>
+    <description><![CDATA[]]></description>
+    <category>Boundaries &amp; Self-Protection</category>
+    <category>how to set healthy boundaries</category>
+    <category>boundary setting techniques</category>
+    <category>enforce boundaries</category>
+    <category>personal space</category>
+    <category>limits</category>
+    <category>non-negotiable</category>
+    <category>boundary violations</category>
+    <category>people-pleasing</category>
+    <category>self-respect</category>
+    <category>toxic relationships</category>
+    <category>emotional manipulation</category>
+    <category>codependency</category>
+    <category>relational healing</category>
+    <category>nervous system</category>
+    <category>assertiveness</category>
+  </item>
+
+  <!-- ========================= -->
+  <!-- POST 3 — Apr 29, 2026     -->
+  <!-- ========================= -->
+  <item>
+    <title><![CDATA[Why Narcissists Come Back and How to Stop Them]]></title>
+    <link>https://blog.unseenscars.vip/why_narcissists_come_back_and_how_to_stop_them</link>
+    <guid>https://blog.unseenscars.vip/why_narcissists_come_back_and_how_to_stop_them</guid>
+    <pubDate>Wed, 29 Apr 2026 09:00:00 -0400</pubDate>
+    <description><![CDATA[They don’t return because they’ve changed... They return because they need supply. This trauma‑informed breakdown explains the psychology behind narcissistic hoovering, the love‑bomb cycle, and how to stop the manipulation before it starts.]]></description>
+    <category>narcissistic abuse recovery</category>
+    <category>why narcissists come back</category>
+    <category>trauma recovery</category>
+    <category>emotional manipulation</category>
+    <category>boundary setting</category>
+    <category>toxic relationship patterns</category>
+    <category>gaslighting</category>
+    <category>emotional abuse healing</category>
+  </item>
+
+  <!-- ========================= -->
+  <!-- POST 2 — Apr 28, 2026     -->
+  <!-- ========================= -->
+  <item>
+    <title><![CDATA[Ten Signs Someone is Gaslighting You (And You’re Not Overreacting)]]></title>
+    <link>https://blog.unseenscars.vip/ten_signs_someone_is_gaslighting_you</link>
+    <guid>https://blog.unseenscars.vip/ten_signs_someone_is_gaslighting_you</guid>
+    <pubDate>Tue, 28 Apr 2026 09:00:00 -0400</pubDate>
+    <description><![CDATA[If you’ve been doubting your own reality, replaying conversations, or wondering whether you’re “overreacting,” this piece will help you name what’s really happening. These 10 signs reveal how gaslighting erodes your self‑trust and how to start reclaiming it.]]></description>
+    <category>covert abuse and gaslighting</category>
+    <category>gaslighting signs</category>
+    <category>signs of gaslighting</category>
+    <category>am I being gaslighted</category>
+    <category>manipulation</category>
+    <category>reality questioning</category>
+    <category>memory doubt</category>
+    <category>emotional manipulation</category>
+    <category>narcissistic abuse</category>
+    <category>controlling behavior</category>
+    <category>psychological abuse</category>
+  </item>
+
+  <!-- ========================= -->
+  <!-- POST 1 — Apr 27, 2026     -->
+  <!-- ========================= -->
+  <item>
+    <title><![CDATA[Why Fine is the Most Dangerous Word in Your Vocabulary]]></title>
     <link>https://blog.unseenscars.vip/why_fine_is_the_most_dangerous_word</link>
-    <guid isPermaLink="true">https://blog.unseenscars.vip/why_fine_is_the_most_dangerous_word</guid>
-    <pubDate>Tue, 21 Apr 2026 10:00:00 -0400</pubDate>
-    <description><![CDATA[
-      A trauma-informed look at why 'fine' becomes a survival strategy for emotionally neglected adults and how this tiny word hides overwhelm, numbness, and self-abandonment
-    ]]></description>
-    <category>Emotional Neglect</category>
-    <category>Trauma Recovery</category>
-    <category>Self-Healing</category>
+    <guid>https://blog.unseenscars.vip/why_fine_is_the_most_dangerous_word</guid>
+    <pubDate>Mon, 27 Apr 2026 17:00:00 -0400</pubDate>
+    <description><![CDATA[A trauma-informed piece that takes a powerful look at why “I’m fine” becomes the most practiced lie of emotionally neglected adults. Inside, I unpack the hidden costs of the survival strategies that once kept you safe but now keep you stuck. If you’ve spent years minimizing your feelings, this is the article that helps you understand why and what to do next.]]></description>
+    <category>emotional neglect</category>
+    <category>emotional numbing</category>
+    <category>dissociation</category>
+    <category>invisible wounds</category>
+    <category>self-abandonment</category>
+    <category>emotional suppression</category>
+    <category>childhood emotional neglect</category>
+    <category>reconnecting with emotions</category>
+    <category>healing emotional neglect</category>
+    <category>emotional awareness</category>
   </item>
 
 </channel>
 </rss>
-  <item>
-    <title>10 Signs Someone Is Gaslighting You</title>
-    <link>https://blog.unseenscars.vip/ten_signs_someone_is_gaslighting_you</link>
-    <guid isPermaLink="true">https://blog.unseenscars.vip/ten_signs_someone_is_gaslighting_you</guid>
-    <pubDate>Sun, 26 Apr 2026 09:00:00 -0400</pubDate>
-    <description><![CDATA[
-      If you’ve been doubting your own reality, replaying conversations, or wondering whether you’re “overreacting,” this piece will help you name what’s really happening. These 10 signs reveal how gaslighting erodes your self‑trust and how to start reclaiming it.
-    ]]></description>
-    <category>Covert Abuse</category>
-    <category>Gaslighting</category>
-    <category>Trauma Recovery</category>
-    <category>Self-Healing</category>
-  </item>
-
-  <item>
-    <title>Why Narcissists Come Back and How to Stop Them</title>
-    <link>https://blog.unseenscars.vip/why_narcissists_come_back_and_how_to_stop_them</link>
-    <guid isPermaLink="true">https://blog.unseenscars.vip/why_narcissists_come_back_and_how_to_stop_them</guid>
-    <pubDate>Mon, 27 Apr 2026 09:00:00 -0400</pubDate>
-    <description><![CDATA[
-      They don’t return because they’ve changed. They return because they need supply. This trauma‑informed breakdown explains the psychology behind narcissistic hoovering, the love‑bomb cycle, and how to stop the manipulation before it starts.
-    ]]></description>
-    <category>Narcissistic Abuse Recovery</category>
-    <category>Trauma Recovery</category>
-    <category>Self-Healing</category>
-  </item>
